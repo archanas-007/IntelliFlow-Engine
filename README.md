@@ -1,6 +1,8 @@
-# AI Workflow Automation SaaS Platform
+# IntelliFlow Engine
 
-A portfolio-worthy SaaS platform for building and automating workflows with AI agents. Like Zapier, but with intelligent AI at the core.
+![IntelliFlow Engine dashboard](img/ai-saas.png)
+
+IntelliFlow Engine is an AI-first workflow automation platform for building, executing, and observing intelligent workflows composed of AI agents. Like Zapier, but with intelligent AI at the core.
 
 ## Tech Stack
 
@@ -45,12 +47,6 @@ docker-compose up -d
 # Frontend will be available at http://localhost:3000
 # Backend API docs at http://localhost:8000/docs
 ```
-# IntelliFlow Engine
-
-IntelliFlow Engine is an AI-first workflow automation platform for building, executing, and observing intelligent workflows composed of AI agents.
-
-![IntelliFlow Engine dashboard](img/ai-saas.png)
-
 Key goals:
 - Compose AI agents into reusable workflows
 - Provide real-time execution streaming and observability
