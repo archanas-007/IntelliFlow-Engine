@@ -49,6 +49,8 @@ docker-compose up -d
 
 IntelliFlow Engine is an AI-first workflow automation platform for building, executing, and observing intelligent workflows composed of AI agents.
 
+![IntelliFlow Engine dashboard](img/ai-saas.png)
+
 Key goals:
 - Compose AI agents into reusable workflows
 - Provide real-time execution streaming and observability
