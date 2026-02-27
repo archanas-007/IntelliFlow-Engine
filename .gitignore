@@ -84,4 +84,6 @@ secret*
 *.md~
 
 # Ignore Markdown files (per request)
-*.md
+
+# Allow tracking the top-level README
+!README.md
